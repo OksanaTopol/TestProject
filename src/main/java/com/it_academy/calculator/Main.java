@@ -1,3 +1,6 @@
+package com.it_academy.calculator;
+import main.java.com.it_academy.calculator.Reader;
+
 public class Main {
 
   public static void main(String[] args) {

@@ -1,7 +1,8 @@
+package main.java.com.it_academy.calculator;
+
 import java.util.Scanner;
 
 public class Reader {
-
   static Scanner scanner = new Scanner(System.in);
 
   public static double getDouble() {
@@ -29,4 +30,5 @@ public class Reader {
     }
     return operation;
   }
+
 }

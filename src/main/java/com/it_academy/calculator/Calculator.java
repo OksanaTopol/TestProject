@@ -1,3 +1,8 @@
+package com.it_academy.calculator;
+import main.java.com.it_academy.calculator.Reader;
+
+import java.util.Scanner;
+
 public class Calculator {
 
   public static double calc(double num1, double num2, char operation) {
